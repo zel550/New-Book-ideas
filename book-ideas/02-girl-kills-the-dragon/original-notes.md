@@ -21,3 +21,7 @@ In their quest, they visit the house of the forest witch, Baba Yaga, who they ho
 The witch tells them the dragon's been trapped by a magic spell; she has something to do with that — I think she dies, but I'm not sure. She has stone golems protecting her house. She gives the girl protagonist a stone golem in a miniature figure, which can expand to a full-size giant golem when she speaks a magic word.
 
 They end up going to the dragon, they are going to fight him, but he laughs — the Wolf has betrayed her, the Wolf is working for the dragon; the Wolf is ashamed and hides. She offers herself as sacrifice to be eaten by the dragon, goes into his maw; in there, she speaks the magic words, the golem grows to his full size, the dragon heaves, can't move, has to spit her out (Red Riding Hood analogy to the Wolf).
+
+## Author's follow-up notes, part 2 (dictated in conversation, 2026-07-31)
+
+There's also the Red Riding Hood [connection], there's an administrator doing a bit of procedural comedy — why does the kingdom not just kill the dragon? Because economically it makes more sense to send one girl compared to the damage that the dragon is going to do. The girl also went to speak to the administrator, or whatever his bureaucratic title is, and he dryly explains why. He is also the first witness, I think.
