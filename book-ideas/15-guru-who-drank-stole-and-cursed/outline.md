@@ -1,0 +1,65 @@
+# The Guru Who Drank, Stole and Cursed — Full Outline
+
+## Logline
+A boy identified in infancy as the reincarnation of his nation's holiest spiritual leader spends his whole life trying to prove he isn't holy at all — drinking, stealing, cursing, doing everything he can to be seen as the ordinary, flawed person he knows himself to be — only to discover that a big enough faith can turn even a man's worst behavior into scripture.
+
+## Genre
+Satirical/dark-comic coming-of-age novel with real spiritual and philosophical stakes underneath the comedy — closest tonal comps are *Life of Brian* (an unwanted messiah whose every act is misread as sacred) and *Little Buddha* (the reincarnate-lama search tradition played straight), with the escalating, absurdist "nothing I do can dent this" engine of *Catch-22*, resolving toward something more sincere by the end rather than staying purely satirical throughout.
+
+## World
+An unnamed nation (or a lightly fictionalized analogue — recommend deciding deliberately whether to invent a wholly fictional culture/religion or write a clearly fictionalized version of a real tradition, given the sensitivity of drawing directly on real living religious practice) organized around a reincarnate spiritual-leader tradition: when the previous guru dies, searchers identify an infant believed to be his reincarnation through signs, tests, and prophecy, and raise that child from earliest memory as the nation's living holy figure. The premise explicitly requires researching real reincarnate-lama (tulku) search traditions and — importantly — the "crazy wisdom" (Tibetan: yeshe chölwa) teaching tradition, in which spiritually advanced teachers behave scandalously (drinking, unconventional or transgressive conduct) and devotees interpret the behavior as a higher teaching method rather than a flaw; this is the real-world hinge the whole satire can hang on, and should be researched directly (including its real controversies, e.g., teachers like Chögyam Trungpa) rather than invented from scratch, both for authenticity and to handle the material responsibly.
+
+## Themes
+- The halo effect taken to its logical, absurd extreme — once someone is declared holy, confirmation bias does the rest of the work for them, reinterpreting even bad behavior as meaningful
+- Freedom vs. destiny — a life assigned before birth, and whether authentic selfhood is possible inside a role you never chose
+- The gap between performing holiness and being good — the boy's actual small kindnesses (which nobody notices because they're unremarkable) versus his rebellious acts (which everyone treats as profound)
+- Who benefits from the myth — the institution around him (temple, state, economy of pilgrims and donations) has a structural incentive to keep the myth alive regardless of what he actually does, which is a more cynical and more interesting antagonist than any single person
+- What "crazy wisdom" actually costs the people around a scandalous holy man, versus the clean spiritual narrative told about it afterward
+
+## Principal Characters
+- **The Boy / The Guru** (recommend a name and a title — e.g., a specific honorific in the invented or adapted tradition — before drafting) — identified as the reincarnated spiritual leader in infancy; wants, more than anything, to be seen as an ordinary flawed person, and discovers that the harder he tries to prove it, the more devotedly he's worshipped. His arc should resist a too-easy resolution (either "he embraces the role and becomes genuinely wise" or "he escapes and is finally free") in favor of something more specific to the premise — recommend he ends the book redefining what holiness even means, on his own terms, rather than simply accepting or rejecting the role as originally defined.
+- **The Guardian/Attendant Monk** — raised him from infancy, is the one person who has watched every "miracle" up close and knows exactly how ordinary and human the boy actually is; carries real love for him alongside institutional loyalty to the myth, making them a compromised but sympathetic figure rather than a simple gatekeeper.
+- **The True Believer** — a devoted follower/companion (peer, friend, or romantic interest) who reads profound meaning into everything the guru does, including his worst behavior; the emotional cost of this character's unshakeable faith — and what it does to them when/if they finally see him plainly — is a strong secondary engine for the book.
+- **The Skeptic/Handler** — a rival monk, political administrator, or family member who either privately doubts the boy's divinity and wants to expose it, or (a more cynical and probably more interesting choice) knows full well he's ordinary and doesn't care, because the institution profits either way; recommend leaning toward the cynical version, since it sharpens the satire's real target (the economics of belief, not any one person's sincerity).
+- **The Previous Guru** — the deceased leader the boy is said to be the reincarnation of; recommend developing a late-book reveal that the previous guru had his own hidden, very human flaws, mirroring the boy's arc and complicating the whole tradition's premise rather than resolving it neatly.
+- **The Boy's Love Interest** — if the tradition (as researched/adapted) requires celibacy or purity from its holy figures, a forbidden romantic relationship is a natural and strong source of stakes and hypocrisy-testing, worth developing deliberately rather than defaulting to.
+
+## Structure: Three Acts, ~28 Chapters
+
+### Act One — Born Holy (Ch. 1–8)
+1. Cold open on the search/identification ritual in flashback or told-to-him-later form — the infant boy picked out from other candidates through signs, tests, prophecy, establishing the tradition's rules and stakes before we meet him as a person.
+2. Establish the boy as a child within the role — schooled, sequestered, performed-for and performed-at, showing the gap between the sacred child everyone sees and the ordinary kid underneath from the earliest possible age.
+3. First small rebellion as a child (age-appropriate — sneaking out, a lie, a tantrum) that is immediately reinterpreted by the adults around him as a teaching or a sign, planting the book's central mechanism early and comedically.
+4. The Guardian/Attendant established as the person who sees him most clearly; their relationship as the boy's one source of real, unmystified connection.
+5. Time-jump to adolescence: the weight of the role has grown heavier as the boy has grown more self-aware; first real articulation of wanting out, or at least wanting to be seen.
+6. Introduce the True Believer as a peer — their devotion, even in ordinary childhood friendship, already showing signs of reading him as more-than-human.
+7. Introduce the Skeptic/Handler and the institutional machinery (temple economics, pilgrims, political stakes in the nation) that depends on the boy remaining exactly what he's supposed to be.
+8. First deliberate, larger transgression as a teenager (drinking, stealing something specific, cursing publicly) staged as a real test of the premise — and its immediate, absurd reinterpretation by the faithful as holy.
+
+### Act Two — Whatever I Do Is Holy (Ch. 9–20)
+9–11. Escalating experiments: the boy, half in genuine rebellion and half in a kind of scientific curiosity, tries increasingly outrageous behavior specifically to break the spell — each failure to be seen as "just a person" should be funnier and sadder in turn.
+12. A real cost lands for the first time — someone is actually hurt (financially, emotionally, physically) by one of his "holy" transgressions, and is bulldozed by the faithful's insistence on reinterpreting it anyway; this is the pivot from pure comedy toward the book's real stakes.
+13. The True Believer's faith is tested by this cost — do they still read meaning into it, or does a crack show; recommend this as a major relationship beat rather than a plot footnote.
+14. The boy discovers (per the "crazy wisdom" research thread) that there's an actual tradition that would validate what's happening to him — teachers whose transgressions are doctrine, not scandal — complicating his own read of himself: is he being cynically self-indulgent, or could there be something real in this after all?
+15. The Skeptic/Handler's real motive surfaces — institutional, financial, political stakes in keeping the myth alive regardless of truth, giving the boy his first real adversary who isn't just "the world's gullibility" in the abstract.
+16. The boy begins, consciously or not, to use his untouchable status — recommend a turn here where he starts actually manipulating the system (a Robin Hood-esque redistribution, protecting someone the institution would otherwise crush, using his "holy theft" for real good) — complicating whether his transgressions are purely selfish or becoming something else.
+17. Forbidden romance beat (if developed) escalates — the relationship the tradition forbids becomes the clearest test yet of whether "whatever he does is holy" has a real limit.
+18. The Guardian, caught between love for the boy and loyalty to the institution, is forced to choose a side for the first time.
+19. Reveal about the Previous Guru's own hidden flaws — undercutting the tradition's foundational premise and forcing the boy (and reader) to reconsider whether the whole system was ever really about purity at all, or whether it's always been this way.
+20. Act Two crisis: the institutional stakes (political unrest, a succession crisis, a scandal threatening to go public in a way that can't be spun) come to a head, forcing the boy toward a real decision rather than another test.
+
+### Act Three — What Holiness Actually Means (Ch. 21–28)
+21. The boy is confronted with a genuine choice with real stakes for people he cares about (the Guardian, the True Believer, whoever he's protected via his "holy theft" turn) rather than just himself — recommend this as the structural pivot from "can I escape this" to "what do I do with this."
+22. A public reckoning — his worst transgression yet, staged in front of the nation, forces the institution, the faithful, and the boy himself to either finally break the spell or double down harder than ever.
+23. The True Believer's arc resolves — whether their faith survives, transforms, or breaks, this should land as a real answer to the book's central question about belief, not a shrug.
+24. The Skeptic/Handler's institutional endgame plays out — recommend resolving whether the institution's cynicism wins, loses, or is itself transformed by what the boy does next.
+25. Climactic choice: rather than a clean "escape the role" or "embrace the role as originally defined," the boy redefines what holiness means on his own terms — using his impossible position deliberately, for the first time, instead of merely surviving or rebelling against it.
+26. The Guardian's arc resolves — their private knowledge of the boy's ordinariness reconciled (or not) with what he's chosen to become.
+27. Resolution of the forbidden romance (if developed) in a way that reflects the book's final stance on authenticity versus role.
+28. Final image: recommend closing on a moment that's deliberately ambiguous about whether the boy has become genuinely wise, is still performing, or has found some third way that makes the distinction beside the point — echoing the "crazy wisdom" tradition's own central, unresolved question, which the book should leave the reader sitting with rather than answering definitively.
+
+## Craft Notes
+- This premise's power depends entirely on tone control — too broad and it's a one-joke satire that can't sustain a full book; too solemn and it loses the absurdist engine that makes the premise sing. Recommend studying *Life of Brian* specifically for how it balances irreverence with a real point being made underneath.
+- The "crazy wisdom" research thread is not optional set dressing — it's the single most useful real-world concept for grounding the premise's satire in something the reader can recognize as true-to-life rather than a cartoon, and it comes with real, well-documented controversies (teachers whose transgressive behavior harmed real students) that the book should reckon with honestly rather than romanticize.
+- Decide early and deliberately whether to invent a wholly fictional nation/religion or write a lightly fictionalized version of a real tradition (most obviously Tibetan Buddhism's tulku system) — the invented-culture route gives more freedom to satirize without appearing to mock a specific living religious community; if drawing more directly on a real tradition, this warrants real care and likely a sensitivity read.
+- The institution's financial/political incentive to keep the myth alive regardless of the boy's actual behavior is the sharpest and most under-developed idea in the source note — worth building out as a concrete subplot (who profits, how, and what they stand to lose) rather than leaving it as background texture.
